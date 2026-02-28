@@ -36,6 +36,3 @@ CREATE TABLE ventas (
 
 ### Registro de Ventas
 ![Ventas](Capturas/ventas.png)
-### Registro de Ventas
-
-![Ventas](Capturas/ventas.PNG)
